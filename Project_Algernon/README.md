@@ -1,2 +1,3 @@
-# Project-Rubia
+# Project_Algernon
+### 该计划用于上传嵌入式开发项目，其中包括ROS、自适应巡航无人机等
 ## （正在施工中~）
