@@ -1,2 +1,3 @@
-# Project-Rubia
+# Project_Vanilla
+## “香草计划” 上传虚拟仿真项目，包括但不限于MMD、动捕等项目代码
 ## （正在施工中~）
