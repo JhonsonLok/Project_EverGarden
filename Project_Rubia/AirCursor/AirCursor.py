@@ -53,8 +53,9 @@ while True:
         
         #print(lmList[4], lmList[8], lmList[12])
 
-        length1, info1, img1 = detector.findDistance(lmList[4], lmList[8], img)  # with draw
-        length2, info2, img2 = detector.findDistance(lmList[4], lmList[12], img)  # with draw
+        length1, info1, img1 = detector.findDistance(lmList[4][:2], lmList[8][:2], img)  # with draw
+        length2, info2, img2 = detector.findDistance(lmList[4][:2], lmList[12][:2], img)  # with draw
+        
         if length1 < 30:
             m.click(fx, fy)
             time.sleep(0.02)
